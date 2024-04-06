@@ -1,5 +1,5 @@
 export * from './FileFetcher';
-export * from './GPT3Tokenizer';
+// export * from './GPT3Tokenizer';
 export * from './ItemSelector';
 export * from './LocalIndex';
 export * from './LocalDocument';
